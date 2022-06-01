@@ -12,4 +12,5 @@ Task 10: Printint the result BREATH power LOVE
 Task 11: Converting a number from binary to decimal
 Task 12: Printing all possible combinations of two letters except oo
 Task 13: Printing a number with 2 decimal places
+Task 14: Converting a number from a decimal to a hexadecimal
 
