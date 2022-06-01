@@ -14,4 +14,5 @@ Task 12: Printing all possible combinations of two letters except oo
 Task 13: Printing a number with 2 decimal places
 Task 14: Converting a number from a decimal to a hexadecimal
 Task 15: Encoding and decoding a text
+Task 16: printing every other line from the input
 
