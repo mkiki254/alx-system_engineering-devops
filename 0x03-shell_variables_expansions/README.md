@@ -3,4 +3,5 @@ Task 1: Creating a script that salutes the current linux user
 Task 2: Adding /action to the path ./action
 Task 3: Creating a script that counts the number of directories in the PATH
 Task 4: Creating a script that lists environment variables
+Task 5: Creating a script that lists all local and environment variables and functions
 
