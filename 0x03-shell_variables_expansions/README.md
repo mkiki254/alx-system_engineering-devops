@@ -10,4 +10,5 @@ Task 8: Adding 128 to a globally stored variable
 Task 9: Printing the result of POWER divided by DIVIDE
 Task 10: Printint the result BREATH power LOVE
 Task 11: Converting a number from binary to decimal
+Task 12: Printing all possible combinations of two letters except oo
 
