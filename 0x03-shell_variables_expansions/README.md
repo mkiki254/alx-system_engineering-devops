@@ -6,4 +6,5 @@ Task 4: Creating a script that lists environment variables
 Task 5: Creating a script that lists all local and environment variables and functions
 Task 6: Creating a script that creates a new local variable
 Task 7: Creating a script that creates a new global variable
+Task 8: Adding 128 to a globally stored variable
 
